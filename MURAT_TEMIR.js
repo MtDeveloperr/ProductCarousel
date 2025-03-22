@@ -126,6 +126,7 @@
                           font-weight: bold;
                           margin-left: 10px;
                           text-align: left;
+                          color:black;
                       }
                       .carousel-wrapper {
                           position: relative;
@@ -157,6 +158,7 @@
                           white-space: normal;
                           font-family: 'Calibri';
                           font-size: clamp(0.8rem, 1vw, 2rem);
+                          color: black;
                       }
                       .product-carousel-item .product-price {
                           margin: 5px;
